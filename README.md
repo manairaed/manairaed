@@ -1,5 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manairaed&layout=compact&theme=radical)
-
+![GitHub stars](https://img.shields.io/github/stars/manairaed/raed
 # Welcome to My GitHub Profile! :wave:
 
 ## Bio
