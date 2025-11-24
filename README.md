@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/manairaed/raed
+![GitHub stars](https://img.shields.io/github/stars/manairaed/manairaed
 # Welcome to My GitHub Profile! :wave:
 
 ## Bio
