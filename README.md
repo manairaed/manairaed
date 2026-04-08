@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About Me
 
-Junior Software Engineer specialized in **Full Stack and Mobile Development** using **Flutter, Angular, and Spring Boot**.  
+Software Engineer specialized in **Full Stack and Mobile Development** using **Flutter, Angular, and Spring Boot**.  
 Proven experience in designing and deploying **modular applications** integrating **REST APIs** and **relational databases**.
 
 Strong background in:
@@ -80,4 +80,4 @@ I focus on:
 
 ---
 
-⭐ *Open to junior full-stack & mobile developer opportunities*  
+⭐ *Open to full-stack & mobile developer opportunities*  
